@@ -1,0 +1,8 @@
+Coloque aqui o arquivo de vídeo institucional, renomeado para:
+
+    institucional.mp4
+
+Não consegui baixar automaticamente o vídeo do link do Google Drive que
+você enviou, porque o Drive exige login para baixar o arquivo original.
+Baixe o vídeo manualmente e substitua este arquivo por ele (mesmo nome:
+institucional.mp4). Veja o README.md na raiz do projeto para mais detalhes.
